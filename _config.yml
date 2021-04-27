@@ -1,6 +1,6 @@
 # SITE SETTINGS
-title: TRANSIMMERSIUM                        # Title in top navigation bar (navbar) and <head>
-description: TRANSIMMERSIUM Intereg Micro-project # Site description in <head>
+title: MOBFACENET                        # Title in top navigation bar (navbar) and <head>
+description: MOBFACENET Win2Wal Project # Site description in <head>
 author: Matei Mancas                    # Used for copyright statement in footer
 #url: "https://numediart.github.io/Transimmersium"  # No slash at the end
 #baseurl: "/Transimmersium"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
