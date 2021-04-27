@@ -1,6 +1,6 @@
 # Transimmersium Project webiste
 
-Find the website at this link : https://numediart.github.io/Transimmersium/ !
+Find the website at this link : https://numediart.github.io/MobFaceNet/ !
 
 # License
 

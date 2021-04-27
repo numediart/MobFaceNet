@@ -1,6 +1,6 @@
 ---
 layout: home
-title: TRANSIMMERSIUM
+title: MOBFACENET
 description: Immersive Simulation and Eye-tracking
 background: /assets/img/trans_action3_tests1.jpg
 permalink: /
